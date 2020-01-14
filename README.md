@@ -3,7 +3,7 @@ This is a very simple shellapp for educational purposes. It demostrates how you 
 ```bash
     -$ git clone git@github.com:gregkoul/Dockerized-shellapp-stdin.git
     -$ cd Dockerized-shellapp-stdin
-    -$ docker build . gregkoul/shellapp-stdin:1.0
+    -$ docker build . -t gregkoul/shellapp-stdin:1.0
     -$ docker run gregkoul/shellapp-stdin:1.0
     -$ docker run -it gregkoul/shellapp-stdin:1.0
 ```
