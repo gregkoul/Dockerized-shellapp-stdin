@@ -1,4 +1,4 @@
-# Dockerized-shell-app
+# Dockerized-shellapp-stdin
 This is a very simple shellapp for educational purposes. It demostrates how you can use STDIN and STDOUT in docker.
 ```bash
     -$ git clone git@github.com:gregkoul/Dockerized-shellapp-stdin.git
